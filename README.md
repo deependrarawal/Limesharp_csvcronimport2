@@ -1,2 +1,2 @@
-# Limesharp_csvcronimport1
+# Limesharp_csvcronimport
  Limesharp csv cron import
